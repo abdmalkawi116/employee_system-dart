@@ -1,0 +1,36 @@
+[
+  {
+    "type": "fulltime",
+    "id": 1,
+    "name": "Ahmed",
+    "baseSalary": 800000.0,
+    "department": "Accounting",
+    "bonus": 100000.0
+  },
+  {
+    "type": "manager",
+    "id": 2,
+    "name": "Sara",
+    "baseSalary": 1200000.0,
+    "department": "Accounting",
+    "bonus": 150000.0,
+    "teamSize": 4
+  },
+  {
+    "type": "parttime",
+    "id": 3,
+    "name": "Ali",
+    "baseSalary": 0.0,
+    "department": "Sales",
+    "hourlyRate": 5000.0,
+    "hours": 80.0
+  },
+  {
+    "type": "fulltime",
+    "id": 4,
+    "name": "khaled",
+    "baseSalary": 20000.0,
+    "department": "ohio",
+    "bonus": 300.0
+  }
+]

@@ -1,0 +1,5 @@
+name: employee_system
+description: Interactive employee & payroll management system (console).
+version: 1.0.0
+environment:
+  sdk: ^3.0.0
